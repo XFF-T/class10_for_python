@@ -1,0 +1,1 @@
+# class10_for_python
